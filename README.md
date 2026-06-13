@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,5,4&height=180&section=header&text=Data%20Scientist%20&fontSize=70&fontColor=fff&animation=fadeIn" alt="header" width="100%"/>
+</div>
+<div align="center">
 
 # 👋 Ayush Raj
 
