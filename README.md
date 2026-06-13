@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Specialized+in+Advanced+ML+Architectures;PyTorch+%7C+TensorFlow+%7C+Spark;Enterprise+MLOps+%26+Production+Pipelines;Statistical+Analysis+%26+Feature+Engineering" alt="Typing SVG" />
   </a>
 </div>
-
+<div align="center">
 ### Data Scientist | Machine Learning Engineer | AI/Deep Learning Enthusiast
 
 **Transforming Complex Data Into Intelligent Solutions** | *Passionate about Building Predictive Models & Scalable ML Systems*
