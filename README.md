@@ -2,8 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,5,4&height=180&section=header&text=Ayush%20Raj&fontSize=70&fontColor=fff&animation=fadeIn" alt="header" width="100%"/>
 </div>
 <div align="center">
-
-# 👋 Welcome to my github profile
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Specialized+in+Advanced+ML+Architectures;PyTorch+%7C+TensorFlow+%7C+Spark;Enterprise+MLOps+%26+Production+Pipelines;Statistical+Analysis+%26+Feature+Engineering" alt="Typing SVG" />
+  </a>
+</div>
 
 ### Data Scientist | Machine Learning Engineer | AI/Deep Learning Enthusiast
 
